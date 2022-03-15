@@ -6,6 +6,7 @@ This is just test project for study.
 ### code
 
 '''c++
+#include <iostream>
 std::cout>>"hello world">>std::endl;
 std::cout>>"orca is smiling">>std::endl;
 '''
